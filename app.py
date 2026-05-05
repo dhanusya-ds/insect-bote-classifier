@@ -432,4 +432,4 @@ else:  # About
 
 # ---- Footer ----
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>&copy; 2025 Insect Bite AI — Real‑time identification & care</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>&copy; 2026Insect Bite AI — Real‑time identification & care</p>", unsafe_allow_html=True)
